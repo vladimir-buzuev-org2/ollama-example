@@ -58,7 +58,7 @@ ollama serve
 
 This will start the Ollama server on `http://localhost:11434`. Keep this terminal window open or run it in the background.
 
-Alternatively, if Ollama was installed using macOS installer, just lanch Ollama app itself.
+Alternatively, if Ollama was installed using macOS installer, just launch Ollama app itself.
 
 ## Downloading a Model
 
